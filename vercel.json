@@ -2,7 +2,7 @@
   "redirects": [
     { 
       "source": "/(.*)", 
-      "destination": "https://www.wyu.edu.cn", 
+      "destination": "https://www.zqu.edu.cn", 
       "statusCode": 301 
     }
   ]
